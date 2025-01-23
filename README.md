@@ -1,4 +1,4 @@
-## ***ava Random Sayı Listesi Yönetimi Challenge'ı**
+## **Java Random Sayı Listesi Yönetimi Challenge'ı**
 # Proje Genel Bakışı
 Bu proje, Java kullanarak rastgele sayı üretimi, liste manipülasyonu ve eksik eleman tespiti üzerine bir uygulama geliştirmeyi amaçlar. Listeyi nasıl yöneteceğimizi ve eksik elemanları nasıl bulacağımızı gösterir.
 
