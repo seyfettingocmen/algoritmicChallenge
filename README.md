@@ -13,6 +13,7 @@ Bu proje, Java kullanarak rastgele sayı üretimi, liste manipülasyonu ve eksik
 ## **Temel Teknik Kavramlar**
 
 <br>
+
 **Random Sayı Üretimi:** Java'nın Random sınıfı ile sayı üretimi.
 **Liste Manipülasyonu:** ArrayList ve Collections ile liste üzerinde işlem yapma.
 **Stream API:** Koleksiyonlar üzerinde fonksiyonel işlemler yapmayı sağlar.
