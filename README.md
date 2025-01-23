@@ -1,9 +1,13 @@
 # **Java Random Sayı Listesi Yönetimi Challenge'ı**
+
 <br>
 
 ## **Proje Genel Bakışı**
+
 <br>
+
 Bu proje, Java kullanarak rastgele sayı üretimi, liste manipülasyonu ve eksik eleman tespiti üzerine bir uygulama geliştirmeyi amaçlar. Listeyi nasıl yöneteceğimizi ve eksik elemanları nasıl bulacağımızı gösterir.
+
 <br>
 
 ## **Temel Teknik Kavramlar**
@@ -19,9 +23,11 @@ Bu proje, Java kullanarak rastgele sayı üretimi, liste manipülasyonu ve eksik
 ## **Çözüm Stratejileri**
 
 <br>
+
 **Toplam Bazlı Method:** Liste elemanlarının toplamını alarak eksik sayıyı bulma.
 **Karşılaştırma Bazlı Method:** Orijinal ve güncellenmiş listeleri karşılaştırarak eksik elemanı bulma.
 **HashSet Bazlı Method:** HashSet kullanarak eksik sayıyı hızlıca tespit etme.
+
 <br>
 
 ## **Kullanılan Teknolojiler**
